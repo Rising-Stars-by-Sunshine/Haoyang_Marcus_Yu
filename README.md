@@ -12,7 +12,7 @@ Haoyang Yu’s research interests are the development of the trading algorithms,
 
 - **Medium: [https://medium.com/@marcus.haoyang.yu](https://medium.com/@marcus.haoyang.yu)**
 - **Linkedin: [https://www.linkedin.com/in/marcus-haoyang-yu/](https://www.linkedin.com/in/marcus-haoyang-yu/)**
-- **WeChat: nameslimshady
+- **WeChat: nameslimshady**
 
 ## Sample Projects
 
