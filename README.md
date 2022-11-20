@@ -13,5 +13,5 @@ Haoyang Yu’s research interests are the development of the Blockchain marketpl
 
 | Platform  | URL |
 | ------------- | ------------- |
-| Colab  | ["Google Colab_Haoyang_Yu_Problem_Set_1_Ethereum_Blockchain_API.ipynb"](https://colab.research.google.com/github/HaoyangMarcusYu/portfolio/blob/main/Google%20Colab_Haoyang_Yu_Problem_Set_1_Ethereum_Blockchain_API.ipynb#scrollTo=6M_I7j13HHVe)  |
+| Google Colab  | ["Google Colab_Haoyang_Yu_Problem_Set_1_Ethereum_Blockchain_API.ipynb"](https://colab.research.google.com/github/HaoyangMarcusYu/portfolio/blob/main/Google%20Colab_Haoyang_Yu_Problem_Set_1_Ethereum_Blockchain_API.ipynb#scrollTo=6M_I7j13HHVe)  |
 | Kaggle Kernel  | ["Haoyang Yu's Kaggle Kernel"](https://www.kaggle.com/code/haoyangmarcusyu/haoyang-yu-s-part2)  |
